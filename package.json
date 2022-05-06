@@ -32,6 +32,8 @@
     "engine",
     "process",
     "workflow",
+    "bpm-engine",
+    "bpmn-engine",
     "workflow-engine",
     "workflow-engine-bpmn"
   ],
